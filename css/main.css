@@ -183,6 +183,7 @@ body {
 div#nav {
     margin-top: 5px;
     width: 25%;
+    background-color: #900c3f;
     border-style: solid;
     padding: 20px;
     height: auto;
